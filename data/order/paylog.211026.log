@@ -1,0 +1,69 @@
+Array
+(
+    [aid] => A2957262709281880177
+    [tid] => T2957262692100963398
+    [cid] => CT09608347
+    [sid] => S2957262743638300661
+    [partner_order_id] => 21102605293569
+    [partner_user_id] => 499
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]37000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 37000
+            [tax_free] => 0
+            [vat] => 3364
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-10-26T05:29:37
+    [approved_at] => 2021-10-26T05:29:47
+    [od_app_no] => A2957262709281880177
+    [od_billkey] => S2957262743638300661
+)
+Array
+(
+    [aid] => A2957345752472195587
+    [tid] => T2957345709521483928
+    [cid] => CT09608347
+    [sid] => S2957345795420899284
+    [partner_order_id] => 21102610514425
+    [partner_user_id] => 509
+    [payment_method_type] => CARD
+    [item_name] => [정기결제]37000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 37000
+            [tax_free] => 0
+            [vat] => 3364
+            [point] => 0
+            [discount] => 0
+        )
+
+    [card_info] => Array
+        (
+            [approved_id] => 26047757
+            [bin] => 536510
+            [card_mid] => 00091750149
+            [card_type] => 체크
+            [install_month] => 00
+            [issuer_corp] => 국민카드
+            [issuer_corp_code] => 02
+            [purchase_corp] => 국민카드
+            [purchase_corp_code] => 02
+            [card_item_code] => 9414
+            [interest_free_install] => N
+            [kakaopay_purchase_corp] => KB국민카드
+            [kakaopay_purchase_corp_code] => 702
+            [kakaopay_issuer_corp] => 카카오뱅크
+            [kakaopay_issuer_corp_code] => 301
+        )
+
+    [created_at] => 2021-10-26T10:51:45
+    [approved_at] => 2021-10-26T10:52:05
+    [od_app_no] => A2957345752472195587
+    [od_billkey] => S2957345795420899284
+)

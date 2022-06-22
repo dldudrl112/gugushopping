@@ -1,0 +1,68 @@
+Array
+(
+    [aid] => A2955162899768743983
+    [tid] => T2955162865409889770
+    [cid] => CT09608347
+    [sid] => S2955162981371851840
+    [partner_order_id] => 21102013411038
+    [partner_user_id] => 490
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]37000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 37000
+            [tax_free] => 0
+            [vat] => 3364
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-10-20T13:41:12
+    [approved_at] => 2021-10-20T13:41:38
+    [od_app_no] => A2955162899768743983
+    [od_billkey] => S2955162981371851840
+)
+Array
+(
+    [aid] => A2955308250054099087
+    [tid] => T2955308189921482544
+    [cid] => CT09608347
+    [sid] => S2955308280117834963
+    [partner_order_id] => 21102023050707
+    [partner_user_id] => 492
+    [payment_method_type] => CARD
+    [item_name] => [정기결제]37000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 37000
+            [tax_free] => 0
+            [vat] => 3364
+            [point] => 0
+            [discount] => 0
+        )
+
+    [card_info] => Array
+        (
+            [approved_id] => 10430455
+            [bin] => 461954
+            [card_mid] => 0111990024
+            [card_type] => 체크
+            [install_month] => 00
+            [issuer_corp] => 신한카드
+            [issuer_corp_code] => 07
+            [purchase_corp] => 신한카드
+            [purchase_corp_code] => 07
+            [interest_free_install] => N
+            [kakaopay_purchase_corp] => 신한카드
+            [kakaopay_purchase_corp_code] => 701
+            [kakaopay_issuer_corp] => 신한카드
+            [kakaopay_issuer_corp_code] => 101
+        )
+
+    [created_at] => 2021-10-20T23:05:09
+    [approved_at] => 2021-10-20T23:05:28
+    [od_app_no] => A2955308250054099087
+    [od_billkey] => S2955308280117834963
+)

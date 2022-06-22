@@ -1,0 +1,43 @@
+Array
+(
+    [aid] => A2946296326332440734
+    [tid] => T2946296064341300800
+    [cid] => CT09608347
+    [sid] => S2946296360693847256
+    [partner_order_id] => 21092616132789
+    [partner_user_id] => 405
+    [payment_method_type] => CARD
+    [item_name] => [정기결제]37000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 37000
+            [tax_free] => 0
+            [vat] => 3364
+            [point] => 0
+            [discount] => 0
+        )
+
+    [card_info] => Array
+        (
+            [approved_id] => 68293975
+            [bin] => 379183
+            [card_mid] => 172436427
+            [card_type] => 신용
+            [install_month] => 00
+            [issuer_corp] => 삼성카드
+            [issuer_corp_code] => 06
+            [purchase_corp] => 삼성카드
+            [purchase_corp_code] => 06
+            [interest_free_install] => N
+            [kakaopay_purchase_corp] => 삼성카드
+            [kakaopay_purchase_corp_code] => 705
+            [kakaopay_issuer_corp] => 삼성카드
+            [kakaopay_issuer_corp_code] => 105
+        )
+
+    [created_at] => 2021-09-26T16:13:29
+    [approved_at] => 2021-09-26T16:14:38
+    [od_app_no] => A2946296326332440734
+    [od_billkey] => S2946296360693847256
+)

@@ -1,0 +1,143 @@
+Array
+(
+    [aid] => A2952151577938229345
+    [tid] => T2952151534987201485
+    [cid] => CT09608347
+    [sid] => S2952151620889279762
+    [partner_order_id] => 21101210554085
+    [partner_user_id] => 466
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]37000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 37000
+            [tax_free] => 0
+            [vat] => 3364
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-10-12T10:55:43
+    [approved_at] => 2021-10-12T10:56:01
+    [od_app_no] => A2952151577938229345
+    [od_billkey] => S2952151620889279762
+)
+Array
+(
+    [aid] => A2952216281622707474
+    [tid] => T2952216195719661856
+    [cid] => CT09608347
+    [sid] => S2952216315979470748
+    [partner_order_id] => 21101215063500
+    [partner_user_id] => 1
+    [payment_method_type] => CARD
+    [item_name] => [정기결제]12000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 12000
+            [tax_free] => 0
+            [vat] => 1091
+            [point] => 0
+            [discount] => 0
+        )
+
+    [card_info] => Array
+        (
+            [approved_id] => 00736558
+            [bin] => 403302
+            [card_mid] => 134756693
+            [card_type] => 신용
+            [install_month] => 00
+            [issuer_corp] => 현대카드
+            [issuer_corp_code] => 08
+            [purchase_corp] => 현대카드
+            [purchase_corp_code] => 08
+            [interest_free_install] => N
+            [kakaopay_purchase_corp] => 현대카드
+            [kakaopay_purchase_corp_code] => 706
+            [kakaopay_issuer_corp] => 현대카드
+            [kakaopay_issuer_corp_code] => 106
+        )
+
+    [created_at] => 2021-10-12T15:06:37
+    [approved_at] => 2021-10-12T15:07:04
+    [od_app_no] => A2952216281622707474
+    [od_billkey] => S2952216315979470748
+)
+Array
+(
+    [aid] => A2952249743710284980
+    [tid] => T2952249632042905858
+    [cid] => CT09608347
+    [sid] => S2952249778071794130
+    [partner_order_id] => 21101217162067
+    [partner_user_id] => 39
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]36000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 36000
+            [tax_free] => 0
+            [vat] => 3273
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-10-12T17:16:23
+    [approved_at] => 2021-10-12T17:16:55
+    [od_app_no] => A2952249743710284980
+    [od_billkey] => S2952249778071794130
+)
+Array
+(
+    [aid] => A2952257560550685300
+    [tid] => T2952257534779909199
+    [cid] => CT09608347
+    [sid] => S2952257616384554569
+    [partner_order_id] => 21101217465954
+    [partner_user_id] => 39
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]17000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 17000
+            [tax_free] => 0
+            [vat] => 1545
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-10-12T17:47:02
+    [approved_at] => 2021-10-12T17:47:21
+    [od_app_no] => A2952257560550685300
+    [od_billkey] => S2952257616384554569
+)
+Array
+(
+    [aid] => A2952343094827046113
+    [tid] => T2952343038989281334
+    [cid] => CT09608347
+    [sid] => S2952343167840413770
+    [partner_order_id] => 21101223184825
+    [partner_user_id] => 415
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]37000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 37000
+            [tax_free] => 0
+            [vat] => 3364
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-10-12T23:18:50
+    [approved_at] => 2021-10-12T23:19:20
+    [od_app_no] => A2952343094827046113
+    [od_billkey] => S2952343167840413770
+)

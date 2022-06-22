@@ -1,0 +1,55 @@
+Array
+(
+    [msg] => approval failure!
+    [code] => -780
+    [extras] => Array
+        (
+            [method_result_code] => LACK_BALANCE
+            [method_result_message] => 계좌 잔액 부족! 다른 계좌로 시도해 주세요.
+        )
+
+)
+Array
+(
+    [aid] => A2952958559345628163
+    [tid] => T2952958503507638532
+    [cid] => CT09608347
+    [sid] => S2952958593704254196
+    [partner_order_id] => 21101415070818
+    [partner_user_id] => 477
+    [payment_method_type] => CARD
+    [item_name] => [정기결제]36000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 36000
+            [tax_free] => 0
+            [vat] => 3273
+            [point] => 0
+            [discount] => 0
+        )
+
+    [card_info] => Array
+        (
+            [approved_id] => 30005237
+            [bin] => 356415
+            [card_mid] => 00091750149
+            [card_type] => 신용
+            [install_month] => 00
+            [issuer_corp] => 국민카드
+            [issuer_corp_code] => 02
+            [purchase_corp] => 국민카드
+            [purchase_corp_code] => 02
+            [card_item_code] => 9221
+            [interest_free_install] => N
+            [kakaopay_purchase_corp] => KB국민카드
+            [kakaopay_purchase_corp_code] => 702
+            [kakaopay_issuer_corp] => KB국민카드
+            [kakaopay_issuer_corp_code] => 102
+        )
+
+    [created_at] => 2021-10-14T15:07:10
+    [approved_at] => 2021-10-14T15:07:30
+    [od_app_no] => A2952958559345628163
+    [od_billkey] => S2952958593704254196
+)

@@ -1,0 +1,82 @@
+[2021/09/17 09:29:25] Request
+[2021/09/17 09:29:25] 
+                      [token] => 78e636862e2ca601d47a24a58d8b2707
+                      [mb_id] => dldydrl3@naver.com
+                      [pg_cancel] => 0
+                      [chkall] => 1
+                      [chk_cnt] => 1
+                      [act_button] => 주문상태저장
+                      [PayMethod] => KAKAOPAY
+                      [CERTIFIED_FLAG] => CN
+                      [AuthFlg] => 10
+                      [currency] => KRW
+                      [requestDealApproveUrl] => https://kmpay.lgcns.com:8443/merchant/requestDealApprove.dev
+                      [TID] => T2939525280324779863
+                      [Amt] => 17000
+                      [CancelMsg] => 쇼핑몰 운영자 승인 취소
+                      [PartialCancelCode] => 0
+                      [actionType] => CL0
+                      [CancelIP] => 115.91.79.59
+[2021/09/17 09:29:25] Result
+[2021/09/17 09:29:25] 
+                      [PG] => CNSPay
+                      [ResultCode] => V103
+                      [ResultMsg] => 지불수단을 설정하지 않았습니다.
+                      [CancelAmt] => null
+                      [CancelDate] => null
+                      [CancelTime] => null
+                      [CancelNum] => null
+                      [PayMethod] => null
+                      [TID] => null
+                      [ErrorCD] => V103
+                      [ErrorMsg] => 지불수단을 설정하지 않았습니다.
+                      [StateCD] => null
+                      [PromotionCd] => null
+                      [RecoverYn] => null
+                      [DiscountAmt] => null
+                      [PreCancelCode] => null
+                      [VanCode] => null
+                      [SmileCash] => null
+                      [TlsVer] => TLSv1.2
+                      [SmilePay] => null
+[2021/09/17 17:00:04] Request
+[2021/09/17 17:00:04] 
+                      [token] => 9eb8ab1418d13f353d464d8599d8934b
+                      [mb_id] => testad@naver.com
+                      [pg_cancel] => 0
+                      [chkall] => 1
+                      [chk_cnt] => 1
+                      [act_button] => 주문상태저장
+                      [PayMethod] => KAKAOPAY
+                      [CERTIFIED_FLAG] => CN
+                      [AuthFlg] => 10
+                      [currency] => KRW
+                      [requestDealApproveUrl] => https://kmpay.lgcns.com:8443/merchant/requestDealApprove.dev
+                      [TID] => T2942967992965853452
+                      [Amt] => 21000
+                      [CancelMsg] => 쇼핑몰 운영자 승인 취소
+                      [PartialCancelCode] => 0
+                      [actionType] => CL0
+                      [CancelIP] => 115.91.79.59
+[2021/09/17 17:00:04] Result
+[2021/09/17 17:00:04] 
+                      [PG] => CNSPay
+                      [ResultCode] => V103
+                      [ResultMsg] => 지불수단을 설정하지 않았습니다.
+                      [CancelAmt] => null
+                      [CancelDate] => null
+                      [CancelTime] => null
+                      [CancelNum] => null
+                      [PayMethod] => null
+                      [TID] => null
+                      [ErrorCD] => V103
+                      [ErrorMsg] => 지불수단을 설정하지 않았습니다.
+                      [StateCD] => null
+                      [PromotionCd] => null
+                      [RecoverYn] => null
+                      [DiscountAmt] => null
+                      [PreCancelCode] => null
+                      [VanCode] => null
+                      [SmileCash] => null
+                      [TlsVer] => TLSv1.2
+                      [SmilePay] => null

@@ -1,0 +1,68 @@
+Array
+(
+    [aid] => A2957560758535374871
+    [tid] => T2957560659749725425
+    [cid] => CT09608347
+    [sid] => S2957560814370642898
+    [partner_order_id] => 21102700455161
+    [partner_user_id] => 510
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]14000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 14000
+            [tax_free] => 0
+            [vat] => 1273
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-10-27T00:45:53
+    [approved_at] => 2021-10-27T00:46:27
+    [od_app_no] => A2957560758535374871
+    [od_billkey] => S2957560814370642898
+)
+Array
+(
+    [aid] => A2957699077959236149
+    [tid] => T2957698927634339688
+    [cid] => CT09608347
+    [sid] => S2957699172447475818
+    [partner_order_id] => 21102709422420
+    [partner_user_id] => 511
+    [payment_method_type] => CARD
+    [item_name] => [정기결제]37000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 37000
+            [tax_free] => 0
+            [vat] => 3364
+            [point] => 0
+            [discount] => 0
+        )
+
+    [card_info] => Array
+        (
+            [approved_id] => 00035958
+            [bin] => 512114
+            [card_mid] => 134756693
+            [card_type] => 신용
+            [install_month] => 00
+            [issuer_corp] => 현대카드
+            [issuer_corp_code] => 08
+            [purchase_corp] => 현대카드
+            [purchase_corp_code] => 08
+            [interest_free_install] => N
+            [kakaopay_purchase_corp] => 현대카드
+            [kakaopay_purchase_corp_code] => 706
+            [kakaopay_issuer_corp] => 현대카드
+            [kakaopay_issuer_corp_code] => 106
+        )
+
+    [created_at] => 2021-10-27T09:42:25
+    [approved_at] => 2021-10-27T09:43:21
+    [od_app_no] => A2957699077959236149
+    [od_billkey] => S2957699172447475818
+)

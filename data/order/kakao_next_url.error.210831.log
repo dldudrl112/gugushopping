@@ -1,0 +1,32 @@
+Array
+(
+    [msg] => permission denied
+    [code] => -5
+)
+Array
+(
+    [post] => Array
+        (
+            [cid] => CT06206006
+            [partner_order_id] => 21083116045291
+            [partner_user_id] => 285
+            [item_name] => [정기결제]36000
+            [quantity] => 1
+            [total_amount] => 36000
+            [tax_free_amount] => 0
+            [approval_url] => https://gugushopping.com/shop/billing.php?pg=KAKAOPAY&method=success&od_id=21083116045291
+            [fail_url] => https://gugushopping.com/shop/billing.php?pg=KAKAOPAY&method=fail&od_id=21083116045291
+            [cancel_url] => https://gugushopping.com/shop/billing.php?pg=KAKAOPAY&method=cancel&od_id=21083116045291
+        )
+
+)
+Array
+(
+    [billing_id] => CT06206006
+    [billing_key] => 1eb42500c9dcb81bcf59d0e6434cf1f2
+)
+Array
+(
+    [msg] => permission denied
+    [code] => -5
+)

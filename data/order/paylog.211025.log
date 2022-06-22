@@ -1,0 +1,43 @@
+Array
+(
+    [aid] => A2957015254741213054
+    [tid] => T2957015216082778351
+    [cid] => CT09608347
+    [sid] => S2957015289099807245
+    [partner_order_id] => 21102513291454
+    [partner_user_id] => 504
+    [payment_method_type] => CARD
+    [item_name] => [정기결제]37000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 37000
+            [tax_free] => 0
+            [vat] => 3364
+            [point] => 0
+            [discount] => 0
+        )
+
+    [card_info] => Array
+        (
+            [approved_id] => 55116590
+            [bin] => 624363
+            [card_mid] => 148078986
+            [card_type] => 체크
+            [install_month] => 00
+            [issuer_corp] => NH카드
+            [issuer_corp_code] => 11
+            [purchase_corp] => NH카드
+            [purchase_corp_code] => 11
+            [interest_free_install] => N
+            [kakaopay_purchase_corp] => NH농협카드
+            [kakaopay_purchase_corp_code] => 703
+            [kakaopay_issuer_corp] => 농협카드
+            [kakaopay_issuer_corp_code] => 103
+        )
+
+    [created_at] => 2021-10-25T13:29:16
+    [approved_at] => 2021-10-25T13:29:32
+    [od_app_no] => A2957015254741213054
+    [od_billkey] => S2957015289099807245
+)

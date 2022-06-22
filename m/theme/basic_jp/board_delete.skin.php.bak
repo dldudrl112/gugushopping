@@ -1,0 +1,49 @@
+<?php
+if(!defined("_TUBEWEB_")) exit; // 個々のページアクセス不可
+?>
+
+<form name="frm" action="<?php echo TB_MBBS_URL; ?>/board_delete2.php" method="post" onsubmit="return frm_submit(this);">
+<input type="hidden" name="w" value="d">
+<input type="hidden" name="index_no" value="<?php echo $index_no;?>">
+<input type="hidden" name="boardid" value="<?php echo $boardid;?>">
+<input type="hidden" name="page" value="<?php echo $page;?>">
+
+<div class="m_bo_pop">
+	<h2>投稿を削除</h2>
+	<p>一度削除されたデータは、復元されません。<br>
+削除するには削除するボタンを押してください。</p>
+	<?php if($is_member) { ?>
+	<p class="btn_area">
+		<input type='submit' value=/'削除' class="btn_medium">
+		<a href="javascript:history.go(-1);" class="btn_medium bx-white">戻る</a>
+	</p>
+	<?php } else { ?>
+	<div class="formbox" style="margin:10px 0 0 0;">
+		<input type="password" name="passwd" placeholder=/'パスワード'>
+	</div>
+	<p class="btn_area" style="margin-top:8px;">
+		<input type='submit' value=/'削除する' class="btn_medium">
+		<a href="javascript:history.go(-1);" class="btn_medium bx-white">戻る</a>
+	</p>
+	<?php } ?>
+</div>
+</form>
+
+<script>
+function frm_submit(f)
+{
+	<?php if(!$is_member) { ?>
+	if(!f.passwd.value)
+	{
+		alert(/'パスワードを入力してください.');
+		f.passwd.focus();
+		return false;
+	}
+	<?php } ?>
+
+	if(answer==true)
+	{	return true;  }
+	else
+	{	return false; }
+}
+</script>

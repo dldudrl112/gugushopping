@@ -1,0 +1,25 @@
+Array
+(
+    [aid] => A2950142954877417559
+    [tid] => T2950142899042049616
+    [cid] => CT09608347
+    [sid] => S2950143006418769038
+    [partner_order_id] => 21100701010964
+    [partner_user_id] => 448
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]37000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 37000
+            [tax_free] => 0
+            [vat] => 3364
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-10-07T01:01:11
+    [approved_at] => 2021-10-07T01:01:34
+    [od_app_no] => A2950142954877417559
+    [od_billkey] => S2950143006418769038
+)

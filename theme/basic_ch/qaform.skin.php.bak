@@ -1,0 +1,82 @@
+<?php
+if(!defined('_TUBEWEB_')) exit;
+?>
+
+<div id="sit_qa_write" class="new_win">
+    <h1 id="win_title"><?php echo $tb['title']; ?></h1>
+
+	<form name="fitemqa" id="fitemqa" method="post" action="<?php echo $form_action_url; ?>" onsubmit="return fitemqa_submit(this);">
+	<input type="hidden" name="w" value="<?php echo $w; ?>">
+	<input type="hidden" name="mb_id" value="<?php echo $member['id']; ?>">
+	<input type="hidden" name="gs_id" value="<?php echo $gs_id; ?>">	
+	<input type="hidden" name="gs_use_aff" value="<?php echo $gs['use_aff']; ?>">
+	<input type="hidden" name="seller_id" value="<?php echo $gs['mb_id']; ?>">	
+	<input type="hidden" name="token" value="<?php echo $token; ?>">
+	<input type="hidden" name="iq_id" value="<?php echo $iq_id; ?>">
+
+	<div class="tbl_frm01 tbl_wrap">
+        <table>
+        <colgroup>
+            <col class="w90">
+            <col>
+        </colgroup>
+		<tbody>
+		<tr>
+			<th scope="row">商品名称</th>
+			<td><?php echo $gs['gname']; ?></td>
+		</tr>
+		<tr>
+			<th scope="row">期权</th>
+			<td>
+				<select name="iq_ty" required itemname="纹身类型">
+					<option value=""<?php echo get_selected($iq_ty, ""); ?>>纹身类型(选择)</option>
+					<option value="商品"<?php echo get_selected($iq_ty, "商品"); ?>>商品</option>
+					<option value="配送"<?php echo get_selected($iq_ty, "配送"); ?>>配送</option>
+					<option value="退货/退款/取消"<?php echo get_selected($iq_ty, "退货/退款/取消"); ?>>退货/退款/取消</option>
+					<option value="交换/变更"<?php echo get_selected($iq_ty, "交换/变更"); ?>>交换/变更</option>
+					<option value="其他"<?php echo get_selected($iq_ty, "其他"); ?>>其他</option>
+				</select>
+				<input id="iq_secret" type="checkbox" name="iq_secret" value="1"
+				<?php echo get_checked($iq_secret, '1'); ?> class="marl7">
+				<label for="iq_secret">秘密文章</label>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row">姓名</th>
+			<td><input type="text" name="iq_name" value="<?php echo $iq_name; ?>" required itemname="姓名" class="frm_input required" size="20"></td>
+		</tr>
+		<tr>
+			<th scope="row">电子邮件</th>
+			<td><input type="text" name="iq_email" value="<?php echo $iq_email; ?>" required email itemname="电子邮件" class="frm_input required" size="30"></td>
+		</tr>
+		<tr>
+			<th scope="row">手机</th>
+			<td><input type="text" name="iq_hp" value="<?php echo $iq_hp; ?>" required itemname="手机" class="frm_input required" size="20"></td>
+		</tr>
+		<tr>
+			<th scope="row">题目</th>
+			<td><input type="text" name="iq_subject" value="<?php echo $iq_subject; ?>" required itemname="题目" class="frm_input wfull required"></td>
+		</tr>
+		<tr>
+			<th scope="row">提问</th>
+			<td><textarea name="iq_question" rows="10" required itemname="提问" class="frm_textbox wufll required"><?php echo $iq_question; ?></textarea></td>
+		</tr>
+		</tbody>
+		</table>
+	</div>
+
+    <div class="win_btn">
+        <input type="submit" value="制作完成" class="btn_lsmall">
+		<a href="javascript:window.close();" class="btn_lsmall bx-white">关窗</a>
+    </div>
+	</form>
+</div>
+
+<script>
+function fitemqa_submit(f) {
+	if(confirm("등록 하시겠습니까?") == false)
+		return false;
+
+    return true;
+}
+</script>

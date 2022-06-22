@@ -1,0 +1,171 @@
+Array
+(
+    [msg] => payment is already done!
+    [code] => -702
+    [extras] => Array
+        (
+            [method_result_code] => 9999
+            [method_result_message] => 결제 실패. 잠시 후 재시도 바랍니다.
+        )
+
+)
+Array
+(
+    [msg] => payment is already done!
+    [code] => -702
+    [extras] => Array
+        (
+            [method_result_code] => 9999
+            [method_result_message] => 결제 실패. 잠시 후 재시도 바랍니다.
+        )
+
+)
+Array
+(
+    [msg] => payment is already done!
+    [code] => -702
+    [extras] => Array
+        (
+            [method_result_code] => 9999
+            [method_result_message] => 결제 실패. 잠시 후 재시도 바랍니다.
+        )
+
+)
+Array
+(
+    [msg] => payment is already done!
+    [code] => -702
+    [extras] => Array
+        (
+            [method_result_code] => 9999
+            [method_result_message] => 결제 실패. 잠시 후 재시도 바랍니다.
+        )
+
+)
+Array
+(
+    [msg] => payment is already done!
+    [code] => -702
+    [extras] => Array
+        (
+            [method_result_code] => 9999
+            [method_result_message] => 결제 실패. 잠시 후 재시도 바랍니다.
+        )
+
+)
+Array
+(
+    [msg] => payment is already done!
+    [code] => -702
+    [extras] => Array
+        (
+            [method_result_code] => 9999
+            [method_result_message] => 결제 실패. 잠시 후 재시도 바랍니다.
+        )
+
+)
+Array
+(
+    [msg] => payment is already done!
+    [code] => -702
+    [extras] => Array
+        (
+            [method_result_code] => 9999
+            [method_result_message] => 결제 실패. 잠시 후 재시도 바랍니다.
+        )
+
+)
+Array
+(
+    [msg] => payment is already done!
+    [code] => -702
+    [extras] => Array
+        (
+            [method_result_code] => 9999
+            [method_result_message] => 결제 실패. 잠시 후 재시도 바랍니다.
+        )
+
+)
+Array
+(
+    [msg] => payment is already done!
+    [code] => -702
+    [extras] => Array
+        (
+            [method_result_code] => 9999
+            [method_result_message] => 결제 실패. 잠시 후 재시도 바랍니다.
+        )
+
+)
+Array
+(
+    [msg] => payment is already done!
+    [code] => -702
+    [extras] => Array
+        (
+            [method_result_code] => 9999
+            [method_result_message] => 결제 실패. 잠시 후 재시도 바랍니다.
+        )
+
+)
+Array
+(
+    [msg] => payment is already done!
+    [code] => -702
+    [extras] => Array
+        (
+            [method_result_code] => 9999
+            [method_result_message] => 결제 실패. 잠시 후 재시도 바랍니다.
+        )
+
+)
+Array
+(
+    [aid] => A2931484444601098733
+    [tid] => T2931484358700929562
+    [cid] => TCSUBSCRIP
+    [sid] => S2931484470370150969
+    [partner_order_id] => 21081718162826
+    [partner_user_id] => admin
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]36000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 36000
+            [tax_free] => 0
+            [vat] => 3273
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-08-17T18:16:30
+    [approved_at] => 2021-08-17T18:16:56
+    [od_tno] => A2931484444601098733
+    [od_billkey] => S2931484470370150969
+)
+Array
+(
+    [aid] => A2931485754566132084
+    [tid] => T2931485655781052972
+    [cid] => TCSUBSCRIP
+    [sid] => S2931485784630071856
+    [partner_order_id] => 21081718213083
+    [partner_user_id] => admin
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]36000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 36000
+            [tax_free] => 0
+            [vat] => 3273
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-08-17T18:21:33
+    [approved_at] => 2021-08-17T18:22:02
+    [od_tno] => A2931485754566132084
+    [od_billkey] => S2931485784630071856
+)

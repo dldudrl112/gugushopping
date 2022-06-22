@@ -1,0 +1,25 @@
+Array
+(
+    [aid] => A2935105467103850505
+    [tid] => T2935105368318793384
+    [cid] => TCSUBSCRIP
+    [sid] => S2935105484282910378
+    [partner_order_id] => 21082712275167
+    [partner_user_id] => 1
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]54000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 54000
+            [tax_free] => 0
+            [vat] => 4909
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-08-27T12:27:53
+    [approved_at] => 2021-08-27T12:28:19
+    [od_tno] => A2935105467103850505
+    [od_billkey] => S2935105484282910378
+)

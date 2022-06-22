@@ -1,0 +1,17 @@
+
+Headers
+Array
+(
+    [0] => Authorization: KakaoAK 1eb42500c9dcb81bcf59d0e6434cf1f2
+    [1] => Content-Type: application/x-www-form-urlencoded
+)
+
+400
+Array
+(
+    [cid] => CT09608347
+    [tid] => T2952958142730385156
+    [partner_order_id] => 21101415054429
+    [partner_user_id] => 477
+    [pg_token] => 346844bb1382626b2198
+)

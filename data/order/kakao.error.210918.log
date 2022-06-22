@@ -1,0 +1,39 @@
+
+Headers
+Array
+(
+    [0] => Authorization: KakaoAK 1eb42500c9dcb81bcf59d0e6434cf1f2
+    [1] => Content-Type: application/x-www-form-urlencoded
+)
+
+400
+Array
+(
+    [cid] => CT09608347
+    [partner_order_id] => 
+    [partner_user_id] => 
+    [item_name] => [정기결제]
+    [quantity] => 1
+    [total_amount] => 0
+    [tax_free_amount] => 0
+    [approval_url] => https://gugushopping.com/shop/billing.php?pg=KAKAOPAY&method=success&od_id=
+    [fail_url] => https://gugushopping.com/shop/billing.php?pg=KAKAOPAY&method=fail&od_id=
+    [cancel_url] => https://gugushopping.com/shop/billing.php?pg=KAKAOPAY&method=cancel&od_id=
+)
+
+Headers
+Array
+(
+    [0] => Authorization: KakaoAK 1eb42500c9dcb81bcf59d0e6434cf1f2
+    [1] => Content-Type: application/x-www-form-urlencoded
+)
+
+400
+Array
+(
+    [cid] => CT09608347
+    [tid] => T2943301333967366864
+    [partner_order_id] => 21091814322402
+    [partner_user_id] => 369
+    [pg_token] => 7e33a81ea8f5c5207fda
+)

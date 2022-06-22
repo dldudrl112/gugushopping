@@ -1,0 +1,61 @@
+Array
+(
+    [aid] => A2933647995721754781
+    [tid] => T2933647544749443301
+    [cid] => TCSUBSCRIP
+    [sid] => S2933648021490741542
+    [partner_order_id] => 21082314104602
+    [partner_user_id] => fromkt@daum.net
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]36000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 36000
+            [tax_free] => 0
+            [vat] => 3273
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-08-23T14:10:47
+    [approved_at] => 2021-08-23T14:12:37
+    [od_tno] => A2933647995721754781
+    [od_billkey] => S2933648021490741542
+)
+Array
+(
+    [msg] => payment is already done!
+    [code] => -702
+    [extras] => Array
+        (
+            [method_result_code] => 9999
+            [method_result_message] => 결제 실패. 잠시 후 재시도 바랍니다.
+        )
+
+)
+Array
+(
+    [aid] => A2933648944909527209
+    [tid] => T2933648880484200762
+    [cid] => TCSUBSCRIP
+    [sid] => S2933648983563415872
+    [partner_order_id] => 21082314155636
+    [partner_user_id] => fromkt@daum.net
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]36000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 36000
+            [tax_free] => 0
+            [vat] => 3273
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-08-23T14:15:57
+    [approved_at] => 2021-08-23T14:16:21
+    [od_tno] => A2933648944909527209
+    [od_billkey] => S2933648983563415872
+)

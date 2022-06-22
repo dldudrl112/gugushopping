@@ -1,0 +1,25 @@
+Array
+(
+    [aid] => A2934412306626659300
+    [tid] => T2934412233611730711
+    [cid] => TCSUBSCRIP
+    [sid] => S2934412336690945817
+    [partner_order_id] => 21082515380780
+    [partner_user_id] => fromkt@daum.net
+    [payment_method_type] => MONEY
+    [item_name] => [정기결제]37000
+    [quantity] => 1
+    [amount] => Array
+        (
+            [total] => 37000
+            [tax_free] => 0
+            [vat] => 3364
+            [point] => 0
+            [discount] => 0
+        )
+
+    [created_at] => 2021-08-25T15:38:09
+    [approved_at] => 2021-08-25T15:38:33
+    [od_tno] => A2934412306626659300
+    [od_billkey] => S2934412336690945817
+)
